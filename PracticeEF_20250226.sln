@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeEF_20250226", "PracticeEF_20250226\PracticeEF_20250226.csproj", "{82B869FF-10BB-4AD1-B51B-E7B913D5B79A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes", "Notes\Notes.csproj", "{81C64128-FE21-4E78-85A0-0806917448B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{82B869FF-10BB-4AD1-B51B-E7B913D5B79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82B869FF-10BB-4AD1-B51B-E7B913D5B79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82B869FF-10BB-4AD1-B51B-E7B913D5B79A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C64128-FE21-4E78-85A0-0806917448B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C64128-FE21-4E78-85A0-0806917448B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C64128-FE21-4E78-85A0-0806917448B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C64128-FE21-4E78-85A0-0806917448B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
